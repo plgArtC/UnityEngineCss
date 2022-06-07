@@ -1,8 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//TopUp Control in Mouse System
 
-public class Touch : MonoBehaviour
+//Object sway and chose obj set scale
+public class TopUp : MonoBehaviour
 {
     private bool invokeLimit = true;
     private RaycastHit2D hit;
